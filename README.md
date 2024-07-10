@@ -13,9 +13,13 @@ Este repositório serve como um arquivo pessoal onde posso acompanhar meu progre
 Os exercícios aqui presentes abrangem uma variedade de tópicos fundamentais em lógica de programação e Python, incluindo:
 
 Estruturas de controle de fluxo (if, else, for, while)
+
 Estruturas de dados (listas, dicionários, tuplas)
+
 Funções e recursividade
+
 Manipulação de strings e arquivos
+
 Algoritmos básicos (ordenação, busca, etc.)
 
 ### Como Usar
